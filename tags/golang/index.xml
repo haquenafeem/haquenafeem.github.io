@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>haquenafeem.github.io</copyright>
-    <lastBuildDate>Thu, 16 Feb 2023 02:01:58 +0530</lastBuildDate><atom:link href="/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Feb 2023 19:53:59 +0600</lastBuildDate><atom:link href="/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gin-Gonic : Rest API implementation for a `todo` resource</title>
+      <link>/posts/post-2/</link>
+      <pubDate>Fri, 17 Feb 2023 19:53:59 +0600</pubDate>
+      
+      <guid>/posts/post-2/</guid>
+      <description>Initial Steps First create a directory Go to that directory Initialize with &amp;lsquo;go mod init todoapp&amp;rsquo;, usually it is a good practice to initialize with something like github.com/{username}/{reponame} Run go get -u github.com/gin-gonic/gin from cli now let&amp;rsquo;s create an empty main.go file, and have the basic code like this:
+package main import ( &amp;#34;fmt&amp;#34; ) func main() { fmt.Println(&amp;#34;hello,world!&amp;#34;) } if you run this program by go run main.go you will get the following output:</description>
+    </item>
+    
     <item>
       <title>Merging Two Maps In Golang</title>
       <link>/posts/post-1/</link>
