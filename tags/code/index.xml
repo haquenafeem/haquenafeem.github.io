@@ -7,7 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>haquenafeem.github.io</copyright>
-    <lastBuildDate>Fri, 17 Feb 2023 19:53:59 +0600</lastBuildDate><atom:link href="/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Feb 2023 11:44:29 +0600</lastBuildDate><atom:link href="/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading Webcam Feed Using Python OpenCV</title>
+      <link>/posts/post-3/</link>
+      <pubDate>Mon, 20 Feb 2023 11:44:29 +0600</pubDate>
+      
+      <guid>/posts/post-3/</guid>
+      <description>Reading webcam feed is very easy using python. We are going to introduce reading webcam using opencv in this post. We will explore more about opencv on later posts.
+Lets jump right into the task.
+First you are going to need to install opencv in your environment/virtual environment. we are going to run pip install opencv-python to fetch the dependency.
+Now follow the steps as mentioned:
+Create a python file, I will use main.</description>
+    </item>
+    
     <item>
       <title>Gin-Gonic : Rest API implementation for a `todo` resource</title>
       <link>/posts/post-2/</link>
