@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>haquenafeem.github.io</copyright>
-    <lastBuildDate>Mon, 20 Feb 2023 11:44:29 +0600</lastBuildDate><atom:link href="/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Mar 2023 09:56:15 +0600</lastBuildDate><atom:link href="/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing Unit Test in Go</title>
+      <link>/posts/writing-unit-test-in-go/</link>
+      <pubDate>Fri, 10 Mar 2023 09:56:15 +0600</pubDate>
+      
+      <guid>/posts/writing-unit-test-in-go/</guid>
+      <description>Writing unit tests in golang is very easy. In this post we are going to create a simple function called Add. and then write unit test for that function. We are going to use golang&amp;rsquo;s in built test package. Lets go ahead and start.
+At first create a directory where you wanna put your codes Initialize go module, I have done as such go mod init calc , but the convention is go mod init github.</description>
+    </item>
+    
     <item>
       <title>Reading Webcam Feed Using Python OpenCV</title>
       <link>/posts/post-3/</link>
