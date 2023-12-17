@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>release on Nafeem Haque</title>
+    <link>/tags/release/</link>
+    <description>Recent content in release on Nafeem Haque</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>haquenafeem.github.io</copyright>
+    <lastBuildDate>Sun, 17 Dec 2023 12:58:57 +0600</lastBuildDate><atom:link href="/tags/release/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Publish Go Package</title>
+      <link>/posts/how-to-publish-go-package/</link>
+      <pubDate>Sun, 17 Dec 2023 12:58:57 +0600</pubDate>
+      
+      <guid>/posts/how-to-publish-go-package/</guid>
+      <description>All the developers that love golang, has one point in time thought about releasing his own golang package. In this blog we are going to describe step by step process on how to publish your go package.
+Basic Requirements Your code needs to be in a public repository. Your repository should have a LICENSE file [Ex MIT,APACHE&amp;hellip;.]. You need to create tags with format of vX.X.X and push. run git tag v0.</description>
+    </item>
+    
+  </channel>
+</rss>
